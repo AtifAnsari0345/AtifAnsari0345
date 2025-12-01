@@ -1,4 +1,4 @@
-# Hi, I'm Atif Ansari 👋
+# Hi, I'm Mohammed Atif Ansari 👋
 
 I’m an IT engineering student who loves learning by building real, practical projects.  
 I work across **web development, AI/OCR, full-stack applications, and automation tools** — always focusing on solving problems and improving with each project.
